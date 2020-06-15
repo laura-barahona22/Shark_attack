@@ -15,4 +15,11 @@ Realizamos la misma acción paar los valores duplicados.
 
 ### Parte III:Elaboración de análisis.
 
-Utilizando la función 'groupby' se analiza la relación entre el dato y 
+Utilizando la función 'groupby' se analiza la relación entre el dato y el número total.En este caso se han seleccionado las columnas'type' para conocer si el ataque fue provocado o no,'sex ' para conocer el género de la víctima y por último 'country' para reconocer en qué zona se da el ataque.
+
+En el caso de 'Type' se conoce la relación para saber cuál es el tipo de ataque más repetido.Para 'Sex' se observa que las víctimas normalmente son hombres,y por último se visualiza en qué países hay más ataques.
+
+### Parte IV:Extracción de conclusiones
+
+Teniendo en cuenta todo el análisis anterior se lleva a cabo una relación directa entre los países dónde se da el ataque y el tipo de ataque,de esta forma se puede saber si los tiburones en esas zonas son más agresivos que en otras zonas.
+por último creamos un nuevo csv con esta información que es la que interesa.
